@@ -1,0 +1,7 @@
+//Flex display  --onhold
+//Sudo element --done
+TO DO: 
+errros based on sessions() --done
+refractor classes--done
+all files and append comma seperated--done
+js functions--on progress;
